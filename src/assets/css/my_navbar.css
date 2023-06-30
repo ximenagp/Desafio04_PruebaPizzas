@@ -1,0 +1,12 @@
+.links {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    font-size: 20px ;
+  }
+.myNavbar{
+  height: 50px;
+}  
+.icono-navbar{
+  font-size: 35px;
+}

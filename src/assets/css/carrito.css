@@ -1,0 +1,24 @@
+.lista-compra{
+    list-style:none 
+}
+h3{
+    padding-bottom: 10px;
+}
+.container-lista-compra{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.name-pizza p:first-letter{
+    text-transform: uppercase;    
+}
+.name-pizza p{    
+    font-weight: bold;
+}
+.valor-total-carrito{
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+.boton-pagar{
+    padding-top: 10px;
+}

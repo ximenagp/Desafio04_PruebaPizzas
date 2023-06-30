@@ -1,0 +1,35 @@
+.pizza-background {
+    display: block;
+    margin: auto;
+    padding-left: 80px;
+    width: auto;
+    height: 200px;
+    background-position: center; 
+    background-color: #cccccc; 
+  }
+.listado-pizzas{
+    list-style:none 
+  }
+.galeria {
+    display: grid;
+    gap: 80px;
+  }
+.grid-columns-3 {
+    grid-template-columns: repeat(3, 30%);
+  }
+.botones{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    flex-wrap: wrap; 
+  }
+.name-pizza:first-letter{
+    text-transform: uppercase;    
+  }
+.precio-pizza{
+  text-align: center;
+  font-size: 30px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  }
